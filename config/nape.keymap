@@ -108,7 +108,7 @@
 
         orientation0_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 8  &mo 9  &mo 11
+&lt_mkp 10 MB3  &mkp MB1  &mkp MB2  &mo 8  &mo 9  &mo 11
             >;
         };
 
@@ -116,7 +116,7 @@
 
         orientation45_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 8  &mo 9  &mo 11
+&lt_mkp 10 MB3  &mkp MB1  &mkp MB2  &mo 8  &mo 9  &mo 11
             >;
         };
 
@@ -202,7 +202,7 @@
 
         orientation_layer {
             bindings = <
-&to 2  &to 4  &to 6  &to 0  &to 5  &trans
+&to 1  &to 4  &to 6  &to 0  &to 5  &trans
             >;
         };
     };
